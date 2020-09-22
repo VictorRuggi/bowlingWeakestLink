@@ -1,0 +1,70 @@
+body, html
+{
+	height: 100%;
+	margin: 0;
+}
+
+.image
+{
+	background-image: url("Quilles-Domaine-Night.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#weakestLinkArea
+{
+	background: crimson;
+	opacity: 80%;
+}
+
+#weakestLinkArea p
+{
+	font-size: 9.5pt;
+}
+
+#calculate
+{
+	background: crimson;
+	color: white;
+}
+
+#rules
+{
+	background: yellow;
+	color: black;
+}
+
+#clear
+{
+	background: blue;
+	color: white;
+}
+
+h1
+{
+	color: white;
+	font-family: "Gotham";
+	text-align: center;
+	top: 50px;
+}
+
+p
+{
+	color: white;
+	font-size: 14pt;
+	font-family: "Gotham";
+	text-align: center;
+	padding-right: 10px;
+}
+
+label
+{
+	color: white;
+}
+
+input
+{
+	font-family: "Arial";
+}
